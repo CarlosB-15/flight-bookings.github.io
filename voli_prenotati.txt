@@ -1,0 +1,8 @@
+Giorgio, Rossi, napoli, roma, 5, 99, 2, gennaio, 2023, 6:30, 55min, ITA Airways, si
+Marco, Rossi, roma, milano, 6, 99, 1, febbraio, 2023, 7:00, 55min, ITA Airways, no
+Giulia, Rossi, milano, napoli, 3, 99, 1, marzo, 2023, 9:00, 55min, ITA Airways, si
+Renato, Rossi, napoli, milano, 5, 99, 2, aprile, 2023, 6:15, 55min, ITA Airways, no
+Stefania, Rossi, milano, roma, 4, 99, 2, maggio, 2023, 10:00, 55min, ITA Airways, si
+Ludovica, Rossi, napoli, milano, 18, 100, 1, luglio, 2023, 8:10, 55min, ITA Airways, si
+Matteo, Rossi, milano, roma, 2, 100, 2, agosto, 2023, 17:00, 55min, ITA Airways, no
+Carlo, Marziani, roma, napoli, 1, 65.0, 1, marzo, 2023, 6:45, 3h 5min, Ryanair + easyJet, si
