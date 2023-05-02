@@ -1,6 +1,6 @@
 # flight-bookings.github.io
 
-Questo progetto rappresenta il risultato della mia tesi di laurea triennale, completata a febbraio 2023. Durante la sua realizzazione, 
+Questo progetto rappresenta il risultato della mia tesi di laurea triennale, completata a marzo 2023. Durante la sua realizzazione, 
 ho avuto l'opportunità di approfondire le mie competenze in ambito di sviluppo software e di acquisire nuove conoscenze nella gestione dei database 
 e delle interfacce utente. Il software è stato implementato utilizzando il linguaggio di programmazione Python.
 
