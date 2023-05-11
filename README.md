@@ -10,3 +10,5 @@ la scelta della classe e prenotare i biglietti aerei selezionati.
 Sono stati implementati inoltre algoritmi per la gestione delle prenotazioni, il calcolo dei prezzi dei biglietti, la gestione delle informazioni sui voli e 
 la lettura e scrittura di file di testo. Il software è stato testato attraverso una serie di scenari.
 In conclusione, questo progetto ha dimostrato l'utilità dei principi di software engineering e della modellazione dei dati nella realizzazione di sistemi software complessi come quello di un sistema di prenotazione di voli.
+
+Questo software è stato sviluppato con conoscenze base nel campo dei database. È importante sottolineare che, successivamente al completamento del progetto, ho dedicato tempo allo studio e all'approfondimento delle conoscenze nel campo dei database. Sono consapevole che un'ulteriore padronanza di tali conoscenze avrebbe potuto rendere il programma più efficiente e ottimizzato. Nonostante ciò, sono orgoglioso del risultato ottenuto e credo che rappresenti un valido punto di partenza per ulteriori sviluppi e miglioramenti futuri.
